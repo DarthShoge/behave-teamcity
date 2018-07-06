@@ -4,6 +4,7 @@ setup(
     name='behave-teamcity',
     version="0.1.25",
     packages=['behave_teamcity', ],
+    zip_safe=False,
     url='https://github.com/iljabauer/behave-teamcity',
     download_url='https://github.com/iljabauer/behave-teamcity/releases/tag/0.1.23',
     license='MIT',
